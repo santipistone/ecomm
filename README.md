@@ -1,2 +1,2 @@
 # ecomm
-Website for e-commerce website
+HTML/CSS code for e-commerce website
